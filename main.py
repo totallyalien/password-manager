@@ -81,9 +81,4 @@ generate.place(x=140,y=280)
 reset = tk.Button(text="RESET",command=reset)
 reset.place(x=250,y=280)
 
-
-
-
-
-
 window.mainloop()
